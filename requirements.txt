@@ -1,0 +1,5 @@
+### Install all required packages 
+
+python-dotenv #manage environment variables
+pandas #data manipulation and analysis
+numpy #numerical computations
