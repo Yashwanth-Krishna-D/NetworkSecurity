@@ -1,5 +1,8 @@
-### Install all required packages 
+python-dotenv 
+pandas 
+numpy
+setuptools
+pymongo 
+certifi
 
-python-dotenv #manage environment variables
-pandas #data manipulation and analysis
-numpy #numerical computations
+##-e. 

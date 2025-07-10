@@ -1,0 +1,9 @@
+{
+    "editor.inlineSuggest.edits.allowCodeShifting": "always",
+    "editor.inlineSuggest.edits.renderSideBySide": "auto",
+    "github.copilot.nextEditSuggestions.enabled": false,
+    "github.copilot.nextEditSuggestions.fixes": false,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.chat.agent.autoFix": true
+}
