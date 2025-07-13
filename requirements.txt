@@ -3,6 +3,7 @@ pandas
 numpy
 setuptools
 pymongo 
+pymongo[srv]==3.6
 certifi
 
 ##-e. 
